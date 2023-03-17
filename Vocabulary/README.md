@@ -48,7 +48,7 @@ _Section description_
 - [openSKOS](http://openskos.org/) -  _"OpenSKOS is a CATCHPlus project. It provides API's on SKOS (Simple Knowledge Organization System). You can either join OpenSKOS as a "tenant" in a SaaS (Software as a Service) construction, or you can download the source code and run your own instance of this software."_
 - [SKOSMOS](https://skosmos.org/) -  _"Open source web-based SKOS browser and publishing tool"_
 - [TemaTres](https://vocabularyserver.com) - _"TemaTres is an open source vocabulary server, web application to manage and exploit vocabularies, thesauri, taxonomies and formal representations of knowledge."_
-- [Themas]([https://www.ics.forth.gr/isl/themas-thesaurus-management-system](https://github.com/isl/THEMAS/)) -  _"The THEMAS system (Thesaurus Management System) is a Web based system for creating and managing multi- faceted multilingual thesauri with Greek or English language serving as the dominant language and a configurable number of reference translation languages."_
+- [Themas](https://www.ics.forth.gr/isl/themas-thesaurus-management-system) -  _"The THEMAS system (Thesaurus Management System) is a Web based system for creating and managing multi- faceted multilingual thesauri with Greek or English language serving as the dominant language and a configurable number of reference translation languages. Available on [github](https://github.com/isl/THEMAS/)"_
 - [VocBench](https://vocbench.uniroma2.it/) -  _"VocBench is a web-based, multilingual, collaborative development platform for managing OWL ontologies, SKOS(/XL) thesauri, Ontolex-lemon lexicons and generic RDF datasets."_
 
 ## Open Vocabularies
